@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/league-play-standings/static/js/main.7cec2993.js",
+    "main.js": "/league-play-standings/static/js/main.d1969ba1.js",
     "index.html": "/league-play-standings/index.html",
-    "main.7cec2993.js.map": "/league-play-standings/static/js/main.7cec2993.js.map"
+    "main.d1969ba1.js.map": "/league-play-standings/static/js/main.d1969ba1.js.map"
   },
   "entrypoints": [
-    "static/js/main.7cec2993.js"
+    "static/js/main.d1969ba1.js"
   ]
 }
