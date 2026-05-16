@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/league-play-standings/static/css/main.e6c13ad2.css",
-    "main.js": "/league-play-standings/static/js/main.eb5acc5f.js",
+    "main.js": "/league-play-standings/static/js/main.3e2338a2.js",
     "static/js/453.d131937c.chunk.js": "/league-play-standings/static/js/453.d131937c.chunk.js",
     "index.html": "/league-play-standings/index.html",
     "main.e6c13ad2.css.map": "/league-play-standings/static/css/main.e6c13ad2.css.map",
-    "main.eb5acc5f.js.map": "/league-play-standings/static/js/main.eb5acc5f.js.map",
+    "main.3e2338a2.js.map": "/league-play-standings/static/js/main.3e2338a2.js.map",
     "453.d131937c.chunk.js.map": "/league-play-standings/static/js/453.d131937c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.eb5acc5f.js"
+    "static/js/main.3e2338a2.js"
   ]
 }
