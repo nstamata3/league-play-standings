@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/league-play-standings/static/css/main.e6c13ad2.css",
-    "main.js": "/league-play-standings/static/js/main.be328742.js",
+    "main.js": "/league-play-standings/static/js/main.d035b248.js",
     "static/js/453.d131937c.chunk.js": "/league-play-standings/static/js/453.d131937c.chunk.js",
     "static/media/NYLB Logo Large.png": "/league-play-standings/static/media/NYLB Logo Large.7c5ddb34a0621f2ae895.png",
     "index.html": "/league-play-standings/index.html",
     "main.e6c13ad2.css.map": "/league-play-standings/static/css/main.e6c13ad2.css.map",
-    "main.be328742.js.map": "/league-play-standings/static/js/main.be328742.js.map",
+    "main.d035b248.js.map": "/league-play-standings/static/js/main.d035b248.js.map",
     "453.d131937c.chunk.js.map": "/league-play-standings/static/js/453.d131937c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.be328742.js"
+    "static/js/main.d035b248.js"
   ]
 }
